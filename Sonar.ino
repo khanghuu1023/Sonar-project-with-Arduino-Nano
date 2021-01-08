@@ -57,6 +57,6 @@ duration=pulseIn(echoPin,HIGH);
 distance=airSpeed*(duration/2.);
 }
 void buzzer(){
-  tone(buzzerPin,800,400);
-  delay(50); 
+  tone(buzzerPin,700,40);
+  delay(40); 
 }
