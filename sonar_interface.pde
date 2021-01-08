@@ -137,7 +137,7 @@ fill(0,0,0);
 noStroke();
 rect(0, 975, width, 1080);//draw a black rectangle below the radar as a place to display texts with no transparancy
 fill(239,250,86);
-text("Object: "+ objState,220,1020);
+text("Status: "+ objState,220,1020);
 text("Angle: " +angleValue+char(176),1100,1020);
 text("Distance: " +distanceValue+ "cm",1400,1020);
 
