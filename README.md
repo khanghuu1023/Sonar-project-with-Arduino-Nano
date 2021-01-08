@@ -1,4 +1,4 @@
-# Sonar-project-with-Arduino-Nano
+#                                       Sonar-project-with-Arduino-Nano
 ## Project summary:
 An ultrasonic sensor HC-SR04, measuring distance away from objects, is attatched to a microservo SG90 which controls the motion of the sensor back and fort from 0->Pi.
 
