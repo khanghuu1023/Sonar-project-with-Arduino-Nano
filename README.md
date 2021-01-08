@@ -6,5 +6,7 @@ When an object is detected by the ultrasonic sensor within the range of 40cm, a 
 
 All these components are monitored by an Arduino Nano.
 
-The visual interface of the sonar are written in Processing, which graphical library using Java. This provides visual information about angle of the servo, positio
+The visual interface of the sonar are written in Processing, which is a graphical library using Java. This provides visual information about surrounding status, angle position of the servo and measured-distance from detected objects.
+
+[Project youtube link](https://www.youtube.com/watch?v=hgHtkBt9Sd4)
 
