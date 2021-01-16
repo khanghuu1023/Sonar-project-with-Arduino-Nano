@@ -11,5 +11,5 @@ The visual interface of the sonar are written in Processing, which is a graphica
 ### Note(s):
 The micro servo used in this project is not able to sweep an entire semi-circle due to the poor mechanism of it. However, speaking of code, I still programmed it to perform an entire semi-circle from 0 to Pi.
 
-[Project youtube link](https://www.youtube.com/watch?v=hgHtkBt9Sd4)
+[Project youtube link](https://www.youtube.com/watch?v=cBBOxbGwOKA)
 
