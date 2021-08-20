@@ -6,10 +6,10 @@ When an object is detected by the ultrasonic sensor within the range of 40cm, a 
 
 All these components are monitored by an Arduino Nano.
 
-The visual interface of the sonar are written in Processing, which is a graphical library using Java. This provides visual information about surrounding status, angle position of the servo and measured-distance from detected objects.
+The visual interface of the sonar are written in Processing, which is a graphical library using Java. This provides real time visual information about surrounding status, angle position of the servo and measured-distance from detected objects.
 
 ### Note(s):
-The micro servo used in this project is not able to sweep an entire semi-circle due to the poor mechanism of it. However, speaking of code, I still programmed it to perform an entire semi-circle from 0 to Pi.
+The micro servo used in this project is not able to sweep an entire semi-circle due its poor mechanism. However, I still programmed it to perform the entire semi-circle from 0 to Pi.
 
 [Project youtube link](https://www.youtube.com/watch?v=cBBOxbGwOKA)
 
